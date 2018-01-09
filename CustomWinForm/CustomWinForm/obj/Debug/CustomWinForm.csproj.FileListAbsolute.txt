@@ -1,0 +1,10 @@
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\bin\Debug\CustomWinForm.exe.config
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\bin\Debug\CustomWinForm.exe
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\bin\Debug\CustomWinForm.pdb
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.csprojResolveAssemblyReference.cache
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.Form1.resources
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.Properties.Resources.resources
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.csproj.GenerateResource.Cache
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.csproj.CoreCompileInputs.cache
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.exe
+C:\Users\kruger\Documents\Visual Studio 2017\Projects\CustomWinForm\CustomWinForm\obj\Debug\CustomWinForm.pdb
